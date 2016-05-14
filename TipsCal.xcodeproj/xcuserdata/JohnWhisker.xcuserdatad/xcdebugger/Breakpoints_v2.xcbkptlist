@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipsCal/ViewController.swift"
+            timestampString = "484925523.150663"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; TipsCal.ViewController"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.141215"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TipsCal.ViewController&gt;"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.141387"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipsCal/ViewController.swift"
+            timestampString = "484925772.441815"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.tipLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.176306"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; TipsCal.ViewController"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.176674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TipsCal.ViewController&gt;"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.176842"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipsCal/ViewController.swift"
+            timestampString = "484925789.078912"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.billField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.182905"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.billField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.183333"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;TipsCal.ViewController&gt;"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.184244"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipsCal/ViewController.swift"
+            timestampString = "484925790.968686"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.totalLabel.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.201667"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.totalLabel.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.201905"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TipsCal.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; TipsCal.ViewController"
+                  moduleName = "TipsCal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/ViewController.swift"
+                  timestampString = "484925810.202042"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
