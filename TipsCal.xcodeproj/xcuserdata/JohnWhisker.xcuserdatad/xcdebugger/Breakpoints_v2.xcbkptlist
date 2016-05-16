@@ -10,11 +10,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TipsCal/ViewController.swift"
-            timestampString = "484925523.150663"
+            timestampString = "485078887.847701"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "11"
-            endingLineNumber = "11"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
             landmarkName = "ViewController"
             landmarkType = "3">
             <Locations>
@@ -58,11 +58,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TipsCal/ViewController.swift"
-            timestampString = "484925772.441815"
+            timestampString = "485078887.847701"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "14"
-            endingLineNumber = "14"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
             landmarkName = "ViewController"
             landmarkType = "3">
             <Locations>
@@ -121,11 +121,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TipsCal/ViewController.swift"
-            timestampString = "484925789.078912"
+            timestampString = "485078887.847701"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "13"
-            endingLineNumber = "13"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
             landmarkName = "ViewController"
             landmarkType = "3">
             <Locations>
@@ -184,11 +184,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "TipsCal/ViewController.swift"
-            timestampString = "484925790.968686"
+            timestampString = "485078887.847701"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "15"
-            endingLineNumber = "15"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
             landmarkName = "ViewController"
             landmarkType = "3">
             <Locations>
@@ -238,6 +238,38 @@
                   offsetFromSymbolStart = "212">
                </Location>
             </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipsCal/ViewController.swift"
+            timestampString = "485079049.111956"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "onEdittingChanged(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TipsCal/ViewController.swift"
+            timestampString = "485078887.847701"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
