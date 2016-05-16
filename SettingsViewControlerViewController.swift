@@ -9,11 +9,17 @@
 import UIKit
 
 class SettingsViewControlerViewController: UIViewController {
+    @IBOutlet weak var tipDefaultSeament: UISegmentedControl!
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
+    }
+    override func viewDidAppear(animated: Bool) {
+        super.viewDidAppear(animated)
+        let defaults = NSUserDefaults.standardUserDefaults()
+        tipDefaultSeament.selectedSegmentIndex = defaults.integerForKey("selected")
+
     }
 
     override func didReceiveMemoryWarning() {
@@ -21,6 +27,12 @@ class SettingsViewControlerViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     
+    @IBAction func onEdittingChanged(sender: AnyObject) {
+        let defaults = NSUserDefaults.standardUserDefaults()
+        print(tipDefaultSeament.selectedSegmentIndex)
+        defaults.setInteger(tipDefaultSeament.selectedSegmentIndex, forKey: "selected")
+        defaults.synchronize()
+    }
 
     /*
     // MARK: - Navigation

@@ -26,7 +26,15 @@ class ViewController: UIViewController {
     @IBOutlet weak var totalLabel: UILabel!
     @IBOutlet weak var tipSegment: UISegmentedControl!
     var tipPercentages = [0.18,0.2,0.22]
-
+   
+    
+    override func viewDidAppear(animated: Bool) {
+        super.viewDidAppear(animated)
+        let defaults = NSUserDefaults.standardUserDefaults()
+        let selected = defaults.integerForKey("selected")
+        print(selected)
+        tipSegment.selectedSegmentIndex = selected
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
