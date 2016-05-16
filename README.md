@@ -8,8 +8,6 @@ Time spent: **6** hours spent in total
 
 ## User Stories
 
-> HINT: mark the items you completed with [x]
-
 The following **required** functionality is complete:
 
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
@@ -27,10 +25,9 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-
 Here's a walkthrough of implemented user stories:
 
-![Video Walkthrough]( http://i.giphy.com/3o7qE0RaSGbVJmngRy ).
+![Video Walkthrough](http://i.giphy.com/3o7qE0RaSGbVJmngRy.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
