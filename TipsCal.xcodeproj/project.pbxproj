@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		61029D5B1CEA1E3E00E75FFE /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 61029D5A1CEA1E3E00E75FFE /* Default-568h@2x.png */; };
 		617AD31A1CE5E78D00749E54 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617AD3191CE5E78D00749E54 /* AppDelegate.swift */; };
 		617AD31C1CE5E78D00749E54 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 617AD31B1CE5E78D00749E54 /* ViewController.swift */; };
 		617AD31F1CE5E78D00749E54 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 617AD31D1CE5E78D00749E54 /* Main.storyboard */; };
@@ -35,11 +36,12 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		61029D5A1CEA1E3E00E75FFE /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 		617AD3161CE5E78D00749E54 /* TipsCal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipsCal.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		617AD3191CE5E78D00749E54 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		617AD31B1CE5E78D00749E54 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		617AD31E1CE5E78D00749E54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		617AD3201CE5E78D00749E54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		617AD3201CE5E78D00749E54 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = /Users/JohnWhisker/Desktop/Working/IOS/TipsCals/TipsCal/TipsCal/Assets.xcassets; sourceTree = "<absolute>"; };
 		617AD3231CE5E78D00749E54 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		617AD3251CE5E78D00749E54 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		617AD32A1CE5E78E00749E54 /* TipsCalTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipsCalTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -79,6 +81,7 @@
 		617AD30D1CE5E78D00749E54 = {
 			isa = PBXGroup;
 			children = (
+				61029D5A1CEA1E3E00E75FFE /* Default-568h@2x.png */,
 				61935C921CE96ADE009E6C15 /* SettingsViewControlerViewController.swift */,
 				617AD3181CE5E78D00749E54 /* TipsCal */,
 				617AD32D1CE5E78E00749E54 /* TipsCalTests */,
@@ -196,6 +199,7 @@
 				TargetAttributes = {
 					617AD3151CE5E78D00749E54 = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = C4CG46V9YL;
 					};
 					617AD3291CE5E78E00749E54 = {
 						CreatedOnToolsVersion = 7.3.1;
@@ -235,6 +239,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				617AD3241CE5E78D00749E54 /* LaunchScreen.storyboard in Resources */,
+				61029D5B1CEA1E3E00E75FFE /* Default-568h@2x.png in Resources */,
 				617AD3211CE5E78D00749E54 /* Assets.xcassets in Resources */,
 				617AD31F1CE5E78D00749E54 /* Main.storyboard in Resources */,
 			);
